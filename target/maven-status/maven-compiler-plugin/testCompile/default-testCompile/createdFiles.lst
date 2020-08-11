@@ -1,5 +1,0 @@
-com\merchant\onboarding\model\TestMerchant.class
-com\merchant\onboarding\handlers\TestCreateMerchantRequestHandler.class
-com\merchant\onboarding\validator\TestMerchantValidator.class
-com\merchant\onboarding\exception\TestMOSException.class
-com\merchant\onboarding\service\TestMerchantServiceImpl.class
